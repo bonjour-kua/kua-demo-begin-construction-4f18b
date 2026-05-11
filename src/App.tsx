@@ -1,18 +1,30 @@
-/**
- * Placeholder root — Replit Agent replaces this with the marketing
- * home page composed of section components from `src/components/sections/`.
- *
- * See `_inputs/INSTRUCTIONS.md` for the build flow.
- */
+import Header from './components/sections/Header'
+import Hero from './components/sections/Hero'
+import About from './components/sections/About'
+import Services from './components/sections/Services'
+import Gallery from './components/sections/Gallery'
+import Testimonials from './components/sections/Testimonials'
+import Faq from './components/sections/Faq'
+import Contact from './components/sections/Contact'
+import Footer from './components/sections/Footer'
+
 export default function App() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-background text-foreground">
-      <div className="space-y-2 text-center">
-        <h1 className="text-2xl font-semibold">Küa demo template</h1>
-        <p className="text-sm text-muted-foreground">
-          Replace this with the build for the current project.
-        </p>
-      </div>
-    </main>
+    <>
+      <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:bg-white focus:text-[#1B1B1B] focus:px-4 focus:py-2 focus:font-body focus:text-sm">
+        Aller au contenu
+      </a>
+      <Header />
+      <main id="main">
+        <Hero />
+        <About />
+        <Services />
+        <Gallery />
+        <Testimonials />
+        <Faq />
+        <Contact />
+      </main>
+      <Footer />
+    </>
   )
 }

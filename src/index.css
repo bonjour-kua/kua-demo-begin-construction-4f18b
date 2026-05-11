@@ -1,34 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/**
- * Design tokens — Replit Agent fills these from `_inputs/lead.json.palette`
- * + the direction picked in `theme-variants.md`. Components NEVER hardcode
- * color values; they use `text-primary`, `bg-background`, etc. (mapped in
- * tailwind.config.js).
- */
 @layer base {
   :root {
-    /* RGB triples — Tailwind's `<alpha-value>` syntax requires this format. */
-    --background: 255 255 255;
-    --foreground: 15 23 42;
-    --primary: 0 0 0;
-    --primary-foreground: 255 255 255;
-    --accent: 0 0 0;
-    --accent-foreground: 255 255 255;
-    --muted: 241 245 249;
-    --muted-foreground: 100 116 139;
-    --border: 226 232 240;
+    --color-bg: #FFFFFF;
+    --color-bg-alt: #F5F5F5;
+    --color-bg-dark: #1B1B1B;
+    --color-bg-accent: #3c3c3c;
+    --color-text: #1B1B1B;
+    --color-text-on-dark: #FFFFFF;
+    --color-accent: #3c3c3c;
+    --color-accent-light: #cfcfcf;
+    --color-accent-on-light: #737373;
+    --color-muted: #7c7c7c;
   }
 
-  /* Global resets / smoothing */
   * {
-    border-color: rgb(var(--border));
+    border-radius: 0 !important;
+    box-shadow: none !important;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
-    font-family: theme('fontFamily.sans');
-    -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
+    @apply font-body bg-white text-[#1B1B1B] antialiased;
+  }
+
+  h1, h2, h3 {
+    @apply font-display;
+  }
+
+  :focus-visible {
+    outline: 2px solid #3c3c3c;
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply font-mono text-xs uppercase tracking-[0.15em] font-medium;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 bg-[#3c3c3c] text-white font-body font-700 uppercase tracking-widest text-sm px-8 py-4 min-h-[48px] transition-colors duration-150 hover:bg-[#1B1B1B] focus-visible:ring-2 focus-visible:ring-[#3c3c3c];
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center gap-2 border-2 border-white text-white font-body font-700 uppercase tracking-widest text-sm px-8 py-4 min-h-[48px] transition-colors duration-150 hover:bg-white hover:text-[#1B1B1B] focus-visible:ring-2 focus-visible:ring-white;
+  }
+
+  .section-container {
+    @apply max-w-7xl mx-auto px-6 lg:px-10;
+  }
+
+  .section-dark {
+    @apply bg-[#1B1B1B] text-white;
+  }
+
+  .section-accent {
+    @apply bg-[#3c3c3c] text-white;
   }
 }
