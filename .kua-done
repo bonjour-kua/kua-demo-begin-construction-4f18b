@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "commitSha": "cca6d2cbbad57c98a312e68ee8d0635d9934eaf8",
+  "branch": "main",
+  "remoteUrl": "https://github.com/bonjour-kua/kua-demo-begin-construction-4f18b.git",
+  "builtAt": "2026-05-11T02:52:48Z",
+  "sections": [
+    "Header",
+    "Hero",
+    "About",
+    "Services",
+    "Gallery",
+    "Testimonials",
+    "Faq",
+    "Contact",
+    "Footer"
+  ],
+  "checkPassed": true,
+  "checkRunHash": "157cd29b1b4348026ff4ace2dad1ceb58fb9b173",
+  "warnings": [
+    "gate 7: Testimonials contain fictional client names (lead.json has no real reviews)",
+    "gate 8: 23 photo placements vs 27+ agency-grade target"
+  ]
+}
