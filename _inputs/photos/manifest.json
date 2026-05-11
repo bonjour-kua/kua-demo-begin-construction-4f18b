@@ -1,0 +1,100 @@
+{
+  "total": 18,
+  "photos": [
+    {
+      "filename": "fb-photo-2.jpg",
+      "source_url": "https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/631651918_946296927727972_8822454282435662236_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=bvr_weBw2e8Q7kNvwFxgRbC&_nc_oc=AdqSyoD66zzJVj-I-aJi2uYfRo777M-K0Iyiq_NUbB8BdgB1MMJqovNvkC1z7bnTaZkb3UGt6KNgSHMBbgIJF6M9&_nc_zt=23&_nc_ht=scontent.fyhu2-1.fna&_nc_gid=6mYA8oizyY2QCOJSqkRbWg&_nc_ss=7b289&oh=00_Af7mS1dgkoAlpHvMlAQ0SubOUSF4OyumSj5HN3A5EO_mvA&oe=6A06F897",
+      "role": "hero",
+      "reason": "C1 OK : chantier actif en arrière-plan; C2 OK : deux employés en uniforme devant camion brandé; C3 OK : photo professionnelle nette au coucher de soleil; C4 OK : texte sur véhicule physique, pas un overlay; C5 OK."
+    },
+    {
+      "filename": "fb-photo-4.jpg",
+      "source_url": "https://scontent.fymq2-1.fna.fbcdn.net/v/t39.30808-6/679866567_1005847075106290_5194280972264001450_n.jpg?stp=c0.89.1078.1078a_cp6_dst-jpg_s552x414_tt6&_nc_cat=100&ccb=1-7&_nc_sid=5df8b4&_nc_ohc=FIGD8GpfMjIQ7kNvwFsXDLg&_nc_oc=AdpRgGhfK4f7-OWy7auzJ5zIWOt0fmYn5JO6w6qqkSBuZm8ylo3f6aEKjuVCSimfZhH6U6xJWamfhK-zLjT414Lh&_nc_zt=23&_nc_ht=scontent.fymq2-1.fna&_nc_gid=6mYA8oizyY2QCOJSqkRbWg&_nc_ss=7b289&oh=00_Af5-U4PIxjCsneVDI00Ro7_paTDzcv3f63ZkWbdCSiQ0Mw&oe=6A072B6F",
+      "role": "gallery",
+      "reason": "C1 OK : intérieur résidentiel réel; C2 OK : salle de bain moderne complètement rénovée; C3 OK : photo professionnelle très nette; C4 OK : aucun texte; C5 OK."
+    },
+    {
+      "filename": "fb-photo-6.jpg",
+      "source_url": "https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/658832604_985824507108547_3529085177888049140_n.jpg?stp=c111.0.958.958a_cp6_dst-jpg_s552x414_tt6&_nc_cat=107&ccb=1-7&_nc_sid=5df8b4&_nc_ohc=T6-NL6pYtOQQ7kNvwHeKr00&_nc_oc=AdqL0_OnA6_XkiX7z5jckSjmkcq3yMQHwm9hjOOFZ3YjjCaxK9NQ1w_AbdIOYVSJc-SsKuHGGmd7Ghl6LlHNd8WS&_nc_zt=23&_nc_ht=scontent.fyhu2-1.fna&_nc_gid=6mYA8oizyY2QCOJSqkRbWg&_nc_ss=7b289&oh=00_Af6PFrDVXNcBzJI_XCHB6vEgC-BCxdqEl_CBv2tn8_HAlg&oe=6A072DA2",
+      "role": "gallery",
+      "reason": "C1 OK : extérieur résidentiel réel; C2 OK : projet complété (maison + piscine + terrasse couverte); C3 OK : sujet identifiable malgré prise de nuit; C4 OK : aucun texte; C5 OK."
+    },
+    {
+      "filename": "fb-photo-7.jpg",
+      "source_url": "https://scontent.fymq2-1.fna.fbcdn.net/v/t39.30808-6/659052230_985824510441880_4030395231795599226_n.jpg?stp=c158.0.864.864a_cp6_dst-jpg_s552x414_tt6&_nc_cat=104&ccb=1-7&_nc_sid=5df8b4&_nc_ohc=mrg3a545IZ0Q7kNvwGoVO1d&_nc_oc=AdpPVi8-voT_nUt1sdugOES8dkN0fXEVy-3r7m2lyfmj83uXhcJL_pOiaPkkGXvWePnl4rD27zM3smu3Ke1ItAOr&_nc_zt=23&_nc_ht=scontent.fymq2-1.fna&_nc_gid=6mYA8oizyY2QCOJSqkRbWg&_nc_ss=7b289&oh=00_Af6UFBDOv7rIOdPImWhI3yP2_qDU3ZP0a35dVnD4qIA_3g&oe=6A07070A",
+      "role": "gallery",
+      "reason": "C1 OK : extérieur chantier réel; C2 OK : aménagement extérieur complété (gravier, muret de pierre, terrasse); C3 OK : net, lumière naturelle; C4 OK : aucun texte; C5 OK."
+    },
+    {
+      "filename": "fb-photo-8.jpg",
+      "source_url": "https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/659813022_985824537108544_8022599753312570094_n.jpg?stp=c29.0.1121.1121a_cp6_dst-jpg_s552x414_tt6&_nc_cat=102&ccb=1-7&_nc_sid=5df8b4&_nc_ohc=XG-aFCHf78AQ7kNvwEjJ9c_&_nc_oc=AdrPC5drAyhjsLdA8xD6AnOu5fo-g_Kk9MBeQnVBqJDDsWB-FXuiHiyqlFqWDbwV9gjpDWZYu703H7FsxwdYGke-&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=6mYA8oizyY2QCOJSqkRbWg&_nc_ss=7b289&oh=00_Af4fjftyKphDXmQu8-fKg9IlJQk7jOn1Vwxg0XtdCkZBWg&oe=6A06FB99",
+      "role": "gallery",
+      "reason": "C1 OK : extérieur résidentiel réel; C2 OK : projet complété (maison + piscine + clôture + terrasse); C3 OK : prise aérienne ou surélevée, nette; C4 OK : aucun texte; C5 OK."
+    },
+    {
+      "filename": "pack-hero-1.webp",
+      "role": "hero",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-1.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-2.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-3.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-4.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-5.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-6.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-7.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-8.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-9.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-10.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-11.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    },
+    {
+      "filename": "pack-gallery-12.webp",
+      "role": "gallery",
+      "reason": "Image curatée — pack webp"
+    }
+  ]
+}

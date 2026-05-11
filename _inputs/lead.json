@@ -1,0 +1,31 @@
+{
+  "company_name": "BEGIN Construction",
+  "slug": "begin-construction-4f18b",
+  "facebook_url": "https://www.facebook.com/ConstructionBegin",
+  "description": "Entrepreneur général à Gatineau, spécialisé en construction résidentielle neuve et en rénovation complète. Réalise des projets incluant finitions intérieures, aménagement extérieur et piscines.",
+  "industry": "Entrepreneur général",
+  "sector": "Entrepreneur général",
+  "city": "Gatineau",
+  "address": "Gatineau",
+  "phone": "+1-819-209-5754",
+  "french_phrases": [
+    "Entrepreneur général basé à Gatineau, dans l'Outaouais.",
+    "Construction résidentielle neuve et rénovation complète.",
+    "De la fondation aux finitions, un seul entrepreneur."
+  ],
+  "palette": {
+    "dominant": [
+      "#cfcfcf",
+      "#7c7c7c",
+      "#3c3c3c"
+    ],
+    "vibrant": "#7f7f7f",
+    "dark_vibrant": "#424242",
+    "accent_on_dark": "#cfcfcf",
+    "accent_on_light": "#737373"
+  },
+  "logo": {
+    "rel_path": "_inputs/photos/logo-clean.jpg",
+    "bg_removed": false
+  }
+}
